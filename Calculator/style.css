@@ -1,0 +1,35 @@
+body{
+    background-color: #F3F3E0;
+}
+.button{
+    padding: 20px;
+    width: 66PX;
+}
+.button{
+    background-color: #4CC9FE;
+    /* opacity: 0.5; */
+    color: white;
+    font-size: 18px;
+}
+.num{
+    color: #1A1A19;
+}
+.operator{
+   color: #1A1A19;
+}
+.red{
+    color: red;
+}
+.container{
+    width: 320px;  
+    height: 480px;  
+    margin: auto;  
+    border: 3px solid black;  
+    border-radius: 8px;  
+    padding: 20px;  
+    margin-top: 1px;
+}
+.input{
+    background-color: #2B2730;
+    color:rgb(45, 156, 230);
+}
